@@ -1,2 +1,2 @@
-# Paper-Paradigma-de-la-Programaci-n-Programaci-n-Declarativa
+# Paper Paradigma de la Programación: Programación Declarativa
 Ejercicios Prácticos Programación Declarativa
